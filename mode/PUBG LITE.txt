@@ -1,0 +1,11 @@
+# PUBG LITE, 0
+CefSharp.BrowserSubprocess.exe
+Launcher.exe
+LauncherAgent.exe
+unins000.exe
+PUBGLite.exe
+ucldr_bgl_se.exe
+ucsvc.exe
+PUBGLite-Win64-Shipping.exe
+BroCrashReporter.exe
+UE4PrereqSetup_x64.exe
